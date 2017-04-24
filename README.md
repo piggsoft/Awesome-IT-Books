@@ -36,7 +36,7 @@
 * [中文翻译《Spring Framework 4.x参考文档》](https://github.com/waylau/spring-framework-4-reference)
 * [《Netty 4.x 用户指南》](https://github.com/waylau/netty-4-user-guide)
 * [JetBrains IDE/Android Studio 翻译插件](https://github.com/YiiGuxing/TranslationPlugin)
-* [https://github.com/LCTT/TranslateProject](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)
+* [Spring MVC 4.2.4 RELEASE 中文文档完整翻译稿](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)
 
 ### Linux
 * [Linux中国翻译项目](https://github.com/LCTT/TranslateProject)
