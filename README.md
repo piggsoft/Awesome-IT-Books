@@ -8,7 +8,8 @@
 * [Css](#css)
 * [IOS](#ios)
 * [Java](#java)
-* [Rx/RxJava](#rx-rxjava)
+* [Redis](#redis)
+* [Rx/RxJava](#rxrxjava)
 * [其他](#其他)
 
 ### Android
@@ -23,13 +24,21 @@
  * [禅与 Objective-C 编程艺术 （Zen and the Art of the Objective-C Craftsmanship 中文翻译）](https://github.com/oa414/objc-zen-book-cn)
  * [翻译、开发心得或学习笔记](https://github.com/nixzhu/dev-blog)
  * [Stanford 公开课，Developing iOS 8 Apps with Swift 字幕翻译](https://github.com/X140Yu/Developing_iOS_8_Apps_With_Swift)
+ * [Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本](https://github.com/objccn/articles)
+ * [一个定期翻译国外iOS优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/hehonghui/iOS-tech-frontier)
+ * [Developing iOS 9 Apps with Swift 字幕简体中文翻译项目](https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift)
 
 ### Java
 * [stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa)
 * [Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
+* [中文翻译《Spring Framework 4.x参考文档》](https://github.com/waylau/spring-framework-4-reference)
+
+### Redis
+* [《Redis Command Reference》全文的中文翻译版](https://github.com/huangz1990/redis)
 
 ### Rx/RxJava
 * [Rx和RxJava文档中文翻译项目](https://github.com/mcxiaoke/RxDocs)
+* [RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
 
 ### 其他
 * [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
