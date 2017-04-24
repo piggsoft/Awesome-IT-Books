@@ -8,6 +8,8 @@
 * [Css](#css)
 * [IOS](#ios)
 * [Java](#java)
+* [Linux](#linux)
+* [Python](#python)
 * [Redis](#redis)
 * [Rx/RxJava](#rxrxjava)
 * [其他](#其他)
@@ -32,6 +34,16 @@
 * [stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa)
 * [Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
 * [中文翻译《Spring Framework 4.x参考文档》](https://github.com/waylau/spring-framework-4-reference)
+* [《Netty 4.x 用户指南》](https://github.com/waylau/netty-4-user-guide)
+* [JetBrains IDE/Android Studio 翻译插件](https://github.com/YiiGuxing/TranslationPlugin)
+* [https://github.com/LCTT/TranslateProject](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)
+
+### Linux
+* [Linux中国翻译项目](https://github.com/LCTT/TranslateProject)
+
+### Python
+* [python document](https://github.com/ictar/python-doc)
+* [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa)
 
 ### Redis
 * [《Redis Command Reference》全文的中文翻译版](https://github.com/huangz1990/redis)
