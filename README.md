@@ -32,7 +32,7 @@
  * [Developing iOS 9 Apps with Swift 字幕简体中文翻译项目](https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift)
 
 ### Java
-* [stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa)
+* [stackoverflow上Java相关回答Top100整理翻译](https://github.com/giantray/stackoverflow-java-top-qa)
 * [Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
 * [中文翻译《Spring Framework 4.x参考文档》](https://github.com/waylau/spring-framework-4-reference)
 * [《Netty 4.x 用户指南》](https://github.com/waylau/netty-4-user-guide)
