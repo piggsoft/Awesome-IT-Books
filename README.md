@@ -1,11 +1,14 @@
 # Awesome-Translation-Books
 集合各个翻译的书记，API，官方Docs
+这个仓库不产出翻译文档，只是将网上流传着的文档集合在一起，供大家查阅学习。
+下面的列表按字母的升序排列
 
 ## 分类
 * [Android](#android)
 * [Css](#css)
 * [IOS](#ios)
 * [Java](#java)
+* [其他](其他)
 
 ### Android
 * [Android开发技术前线 ( android-tech-frontier )](https://github.com/hehonghui/android-tech-frontier)
@@ -21,3 +24,6 @@
 ### Java
 * [stackoverflow上Java相关回答整理翻译](https://github.com/giantray/stackoverflow-java-top-qa)
 * [Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
+
+### 其他
+* [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
