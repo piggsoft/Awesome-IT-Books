@@ -1,4 +1,4 @@
-# Awesome-Translation-Books  
+# Awesome-IT-Books  
 集合各个优秀IT Book&API 翻译&官方Docs 翻译。  
 这个仓库不产出Book，只是将网上流传着的Book集合在一起，供大家检索学习。  
 在此先感谢那些为我们提供Book的作者，因为有他们，我们才能更好了解技术。  
