@@ -35,6 +35,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [JS函数式编程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 * [React 入门教程](https://www.gitbook.com/book/hulufei/react-tutorial/details)
 * [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
+* [TypeScript Handbook（中文版）](https://www.gitbook.com/book/zhongsp/typescript-handbook/details)
 
 ### Android
 * [Android开发技术前线 ( android-tech-frontier )](https://github.com/hehonghui/android-tech-frontier)
