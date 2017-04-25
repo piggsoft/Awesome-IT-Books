@@ -12,7 +12,7 @@
 地址：https://github.com/piggsoft/Awesome-IT-Books  
 
 ## 注意
-Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地进行阅读
+Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地进行阅读  
 后续会给gitbook的书籍和书籍翻译加上github地址，以防国内速度太慢，导致页面完全打不开。
 
 ## 分类
