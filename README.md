@@ -31,6 +31,8 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Material Design 中文协同翻译](https://github.com/1sters/material_design_zh)
 * [知识月刊](https://github.com/jsfront/month)
 * [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/details)
+* [React 入门教程](https://www.gitbook.com/book/hulufei/react-tutorial/details)
+* [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
 
 ### Android
 * [Android开发技术前线 ( android-tech-frontier )](https://github.com/hehonghui/android-tech-frontier)
@@ -51,6 +53,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
  * [一个定期翻译国外iOS优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/hehonghui/iOS-tech-frontier)
  * [Developing iOS 9 Apps with Swift 字幕简体中文翻译项目](https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift)
  * [《The Swift Programming Language》中文版](https://numbbbbb.gitbooks.io/-the-swift-programming-language-/details)
+ * [KKBOX iOS/Mac OS X 基礎開發教材](https://www.gitbook.com/book/zonble/kkbox-ios-dev/details)
 
 ### Java
 * [stackoverflow上Java相关回答Top100整理翻译](https://github.com/giantray/stackoverflow-java-top-qa)
