@@ -11,6 +11,8 @@
 不过这个项目还需要大家的共同努力，个人的接触面有限，不能接触到所有的优秀的翻译。这里需要你的加入，共同完成这个项目。
 地址：https://github.com/piggsoft/Awesome-Translation-Books  
 
+慢慢的加入了一些非翻译的book，但是质量很不错，可以作为IT从业人员进行学习的书籍
+
 ## 注意
 Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地进行阅读
 
@@ -40,6 +42,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### Elasticsearch
 * [Elasticsearch权威指南（中文版）](https://www.gitbook.com/book/looly/elasticsearch-the-definitive-guide-cn/details)
+* [ELKstack 中文指南](https://www.gitbook.com/book/chenryn/elk-stack-guide-cn/details)
 
 ### Docker
 * [Docker —— 从入门到实践](https://yeasy.gitbooks.io/docker_practice/details)
@@ -67,6 +70,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Linux中国翻译项目](https://github.com/LCTT/TranslateProject)
 
 ### Python
+* [零基础学Python](https://www.gitbook.com/book/looly/python-basic/details)
 * [python document](https://github.com/ictar/python-doc)
 * [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa)
 
