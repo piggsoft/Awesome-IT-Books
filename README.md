@@ -32,7 +32,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### 前端
 * [Material Design 中文协同翻译](https://github.com/1sters/material_design_zh)
 * [知识月刊](https://github.com/jsfront/month)
-* [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/details)
+* [JS函数式编程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
 * [React 入门教程](https://www.gitbook.com/book/hulufei/react-tutorial/details)
 * [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
 
@@ -45,7 +45,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [ELKstack 中文指南](https://www.gitbook.com/book/chenryn/elk-stack-guide-cn/details)
 
 ### Docker
-* [Docker —— 从入门到实践](https://yeasy.gitbooks.io/docker_practice/details)
+* [Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
 
 ### IOS
  * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
@@ -55,7 +55,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
  * [Articles for objccn.io. objc.io的完整、准确、优雅的中文翻译版本](https://github.com/objccn/articles)
  * [一个定期翻译国外iOS优质的技术、开源库、软件架构设计、测试等文章的开源项目](https://github.com/hehonghui/iOS-tech-frontier)
  * [Developing iOS 9 Apps with Swift 字幕简体中文翻译项目](https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift)
- * [《The Swift Programming Language》中文版](https://numbbbbb.gitbooks.io/-the-swift-programming-language-/details)
+ * [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
  * [KKBOX iOS/Mac OS X 基礎開發教材](https://www.gitbook.com/book/zonble/kkbox-ios-dev/details)
 
 ### Java
@@ -84,4 +84,4 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### 其他
 * [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
 * [What-happens-when 的中文翻译](https://github.com/skyline75489/what-happens-when-zh_CN)
-* [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/details)
+* [程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details)
