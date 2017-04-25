@@ -9,7 +9,7 @@
 好的的文档零碎的散落在网络的各个角落，好难找。  
 现在有这样一个github仓库，旨在维护一个目录，集合各个优先的IT技术Book和技术翻译，方便大家进行检索。  
 不过这个项目还需要大家的共同努力，个人的接触面有限，不能接触到所有的优秀的Book。这里需要你的加入，共同完成这个项目。
-地址：https://github.com/piggsoft/Awesome-Translation-Books  
+地址：https://github.com/piggsoft/Awesome-IT-Books
 
 慢慢的加入了一些非翻译的book，但是质量很不错，可以作为IT从业人员进行学习的书籍
 
