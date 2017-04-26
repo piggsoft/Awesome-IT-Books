@@ -76,6 +76,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### Redis
 * [《Redis Command Reference》全文的中文翻译版](https://github.com/huangz1990/redis)
+* [Redis开发运维实践指南](https://www.gitbook.com/book/gnuhpc/redis-all-about/details)
 
 ### Rx/RxJava
 * [Rx和RxJava文档中文翻译项目](https://github.com/mcxiaoke/RxDocs)
