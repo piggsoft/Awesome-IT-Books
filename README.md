@@ -20,6 +20,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Android](#android)
 * [Elasticsearch](#elasticsearch)
 * [Docker](#docker)
+* [Git](#git)
 * [IOS](#ios)
 * [Java](#java)
 * [Linux](#linux)
@@ -46,6 +47,9 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### Docker
 * [Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
+
+### Git
+* [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
 
 ### IOS
  * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
