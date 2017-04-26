@@ -67,6 +67,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Spring MVC 4.2.4 RELEASE 中文文档完整翻译稿](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)
 
 ### Linux
+* [鸟哥的Linux私房菜：基础学习篇 第四版](https://www.gitbook.com/book/wizardforcel/vbird-linux-basic-4e/details)
 * [Linux中国翻译项目](https://github.com/LCTT/TranslateProject)
 
 ### Python
