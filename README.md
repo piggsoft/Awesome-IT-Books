@@ -21,6 +21,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Elasticsearch](#elasticsearch)
 * [Docker](#docker)
 * [Git](#git)
+* [Go](#go)
 * [IOS](#ios)
 * [Java](#java)
 * [Linux](#linux)
@@ -51,6 +52,9 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### Git
 * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
+
+### Go
+* [Go 语言圣经 中文版](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
 
 ### IOS
  * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
