@@ -28,6 +28,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Python](#python)
 * [Redis](#redis)
 * [Rx/RxJava](#rxrxjava)
+* [TensorFlow](#tensorflow)
 * [其他](#其他)
 
 ### 前端
@@ -92,6 +93,9 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### Rx/RxJava
 * [Rx和RxJava文档中文翻译项目](https://github.com/mcxiaoke/RxDocs)
 * [RxJava Essentials 中文翻译版](https://github.com/yuxingxin/RxJava-Essentials-CN)
+
+### TensorFlow
+* [TensorFlow 官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
 
 ### 其他
 * [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
