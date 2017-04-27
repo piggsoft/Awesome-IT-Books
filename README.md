@@ -63,6 +63,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
  * [KKBOX iOS/Mac OS X 基礎開發教材](https://www.gitbook.com/book/zonble/kkbox-ios-dev/details)
 
 ### Java
+* [Thinking in Java (Java 编程思想)](https://www.gitbook.com/book/quanke/think-in-java/details)
 * [stackoverflow上Java相关回答Top100整理翻译](https://github.com/giantray/stackoverflow-java-top-qa)
 * [Spring Boot Reference Guide中文翻译 -《Spring Boot参考指南》](https://github.com/qibaoguang/Spring-Boot-Reference-Guide)
 * [中文翻译《Spring Framework 4.x参考文档》](https://github.com/waylau/spring-framework-4-reference)
