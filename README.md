@@ -42,6 +42,10 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
 * [TypeScript Handbook（中文版）](https://www.gitbook.com/book/zhongsp/typescript-handbook/details)
 * [Webpack 中文指南](https://www.gitbook.com/book/zhaoda/webpack/details)
+* [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
+* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
+* [lodash](http://lodashjs.com/docs/)
+* [juicer](http://juicer.name/docs/docs_zh_cn.html)
 
 ### Android
 * [Android开发技术前线 ( android-tech-frontier )](https://github.com/hehonghui/android-tech-frontier)
