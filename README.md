@@ -109,3 +109,4 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
 * [What-happens-when 的中文翻译](https://github.com/skyline75489/what-happens-when-zh_CN)
 * [程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details)
+* [编程之法：面试和算法心得](https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details)
