@@ -63,6 +63,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### Go
 * [Go 语言圣经 中文版](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
+* [Go Web 编程](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 
 ### IOS
  * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
