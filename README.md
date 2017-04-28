@@ -88,7 +88,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### Linux
 * [鸟哥的Linux私房菜：基础学习篇 第四版](https://www.gitbook.com/book/wizardforcel/vbird-linux-basic-4e/details)
 * [Linux中国翻译项目](https://github.com/LCTT/TranslateProject)
-* (Shell 编程范例)[https://www.gitbook.com/book/tinylab/shellbook/details]
+* [Shell 编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
 
 ### Python
 * [零基础学Python](https://www.gitbook.com/book/looly/python-basic/details)
