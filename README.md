@@ -55,7 +55,6 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [vuex 教程](https://vuex.vuejs.org/zh-cn/api.html)
 * [vux 教程](https://vux.li/#/zh-CN/README)
 * [ionic 教程](http://learn.jser.com/ionic/ionic-tutorial.html)
-* [Swift 教程](http://learn.jser.com/swift/swift-tutorial.html)
 * [JavaScript教程](http://learn.jser.com/js/js-tutorial.html)
 * [HTML教程](http://learn.jser.com/html/html-tutorial.html)
 * [CSS教程](http://learn.jser.com/css/css-tutorial.html)
@@ -109,6 +108,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
  * [Developing iOS 9 Apps with Swift 字幕简体中文翻译项目](https://github.com/SwiftGGTeam/Developing-iOS-9-Apps-with-Swift)
  * [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
  * [KKBOX iOS/Mac OS X 基礎開發教材](https://www.gitbook.com/book/zonble/kkbox-ios-dev/details)
+ * [Swift 教程](http://learn.jser.com/swift/swift-tutorial.html)
 
 ### Java
 * [Thinking in Java (Java 编程思想)](https://www.gitbook.com/book/quanke/think-in-java/details)
