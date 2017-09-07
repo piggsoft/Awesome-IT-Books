@@ -36,8 +36,8 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [其他](#其他)
 
 ### 前端
-* [Html](前端/Html.md)
-* [Css](前端/Css.md)
+* [Html](前端/HtML.md)
+* [Css](前端/CSS.md)
 * [Javascript](前端/JAVASCRIPT.md)
 * [综合](前端/综合.md)
 
