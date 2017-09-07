@@ -27,6 +27,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Go](#go)
 * [IOS](#ios)
 * [Java](#java)
+* [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Python](#python)
 * [Redis](#redis)
@@ -120,6 +121,9 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [JetBrains IDE/Android Studio 翻译插件](https://github.com/YiiGuxing/TranslationPlugin)
 * [Spring MVC 4.2.4 RELEASE 中文文档完整翻译稿](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)
 * [Gradle User Guide 中文版](https://www.gitbook.com/book/dongchuan/gradle-user-guide-/details)
+
+### Kotlin
+* [Kotlin User Guide 中文翻译](https://www.kotlincn.net/docs/reference/)
 
 ### Linux
 * [鸟哥的Linux私房菜：基础学习篇 第四版](https://www.gitbook.com/book/wizardforcel/vbird-linux-basic-4e/details)
