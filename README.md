@@ -21,8 +21,9 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ## 分类
 * [前端](#前端)
 * [Android](#android)
-* [Elasticsearch](#elasticsearch)
+* [C++](c++)
 * [Docker](#docker)
+* [Elasticsearch](#elasticsearch)
 * [Git](#git)
 * [Go](#go)
 * [IOS](#ios)
@@ -45,12 +46,15 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Android开发技术前线 ( android-tech-frontier )](https://github.com/hehonghui/android-tech-frontier)
 * [Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.](https://github.com/Skykai521/ECTranslation)
 
-### Elasticsearch
-* [Elasticsearch权威指南（中文版）](https://www.gitbook.com/book/looly/elasticsearch-the-definitive-guide-cn/details)
-* [ELKstack 中文指南](https://www.gitbook.com/book/chenryn/elk-stack-guide-cn/details)
+### C++
+* [C++并发编程(中文版)](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/content/content/chapter1/1.0-chinese.html)
 
 ### Docker
 * [Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
+
+### Elasticsearch
+* [Elasticsearch权威指南（中文版）](https://www.gitbook.com/book/looly/elasticsearch-the-definitive-guide-cn/details)
+* [ELKstack 中文指南](https://www.gitbook.com/book/chenryn/elk-stack-guide-cn/details)
 
 ### Git
 * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
