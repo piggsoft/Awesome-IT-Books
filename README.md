@@ -20,12 +20,15 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ## 分类
 * [前端](#前端)
+* [大数据](#大数据)
+* [后端](#后端)
 * [Android](#android)
 * [C++](c++)
 * [Docker](#docker)
 * [Elasticsearch](#elasticsearch)
 * [Git](#git)
 * [Go](#go)
+* [Markdown](#markdown)
 * [IOS](#ios)
 * [Java](#java)
 * [Kotlin](#kotlin)
@@ -41,6 +44,12 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Css](前端/CSS.md)
 * [Javascript](前端/JAVASCRIPT.md)
 * [综合](前端/综合.md)
+
+### 大数据
+* [Spark](大数据/Spark.md)
+
+### 后端
+* [REST in Action 《REST 实战》](https://waylau.gitbooks.io/rest-in-action/content/)
 
 ### Android
 * [Android开发技术前线 ( android-tech-frontier )](https://github.com/hehonghui/android-tech-frontier)
@@ -62,6 +71,9 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### Go
 * [Go 语言圣经 中文版](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
 * [Go Web 编程](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+
+### Markdown
+* [Markdown - 简单的世界](https://wizardforcel.gitbooks.io/markdown-simple-world/content/)
 
 ### IOS
  * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
@@ -88,6 +100,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### Kotlin
 * [Kotlin User Guide 中文翻译](https://www.kotlincn.net/docs/reference/)
 * [kotlin-in-chinese](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/)
+* [Kotlin 官方参考文档 中文版](https://hltj.gitbooks.io/kotlin-reference-chinese/content/)
 
 ### Linux
 * [鸟哥的Linux私房菜：基础学习篇 第四版](https://www.gitbook.com/book/wizardforcel/vbird-linux-basic-4e/details)
@@ -116,3 +129,4 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details)
 * [编程之法：面试和算法心得](https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details)
 * [廖雪峰 JavaScript Python Git 教程](https://wizardforcel.gitbooks.io/liaoxuefeng/content/)
+* [架构师（The Architect）](https://architect.xrosscode.com/zh/)
