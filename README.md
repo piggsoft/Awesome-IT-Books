@@ -87,6 +87,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### Kotlin
 * [Kotlin User Guide 中文翻译](https://www.kotlincn.net/docs/reference/)
+* [kotlin-in-chinese](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/)
 
 ### Linux
 * [鸟哥的Linux私房菜：基础学习篇 第四版](https://www.gitbook.com/book/wizardforcel/vbird-linux-basic-4e/details)
