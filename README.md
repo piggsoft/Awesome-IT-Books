@@ -20,13 +20,18 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ## 分类
 * [前端](#前端)
+* [大数据](#大数据)
+* [后端](#后端)
 * [Android](#android)
-* [Elasticsearch](#elasticsearch)
+* [C++](c++)
 * [Docker](#docker)
+* [Elasticsearch](#elasticsearch)
 * [Git](#git)
 * [Go](#go)
+* [Markdown](#markdown)
 * [IOS](#ios)
 * [Java](#java)
+* [Kotlin](#kotlin)
 * [Linux](#linux)
 * [Python](#python)
 * [Redis](#redis)
@@ -35,62 +40,30 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [其他](#其他)
 
 ### 前端
-* [Material Design 中文协同翻译](https://github.com/1sters/material_design_zh)
-* [知识月刊](https://github.com/jsfront/month)
-* [JS函数式编程指南](https://www.gitbook.com/book/llh911001/mostly-adequate-guide-chinese/details)
-* [React 入门教程](https://www.gitbook.com/book/hulufei/react-tutorial/details)
-* [前端工程师手册](https://www.gitbook.com/book/leohxj/front-end-database/details)
-* [TypeScript Handbook（中文版）](https://www.gitbook.com/book/zhongsp/typescript-handbook/details)
-* [Webpack 中文指南](https://www.gitbook.com/book/zhaoda/webpack/details)
-* [ECMAScript 6 入门](http://es6.ruanyifeng.com/)
-* [ECMAScript 5 入门](http://lzw.me/pages/ecmascript/)
-* [七天学会NodeJS](http://nqdeng.github.io/7-days-nodejs/)
-* [lodash](http://lodashjs.com/docs/)
-* [juicer](http://juicer.name/docs/docs_zh_cn.html)
-* [Angular 4.0中文文档](https://angular.cn/docs/ts/latest/)
-* [zeptojs](http://www.zeptojs.cn/)
-* [Redux 中文文档](http://cn.redux.js.org/index.html)
-* [Vue.js 教程](http://www.ctolib.com/docs-vue-js-c-index)
-* [Vue2.0 教程](http://cn.vuejs.org/v2/guide/installation.html#独立版本)
-* [vuex 教程](https://vuex.vuejs.org/zh-cn/api.html)
-* [vux 教程](https://vux.li/#/zh-CN/README)
-* [ionic 教程](http://learn.jser.com/ionic/ionic-tutorial.html)
-* [JavaScript教程](http://learn.jser.com/js/js-tutorial.html)
-* [HTML教程](http://learn.jser.com/html/html-tutorial.html)
-* [CSS教程](http://learn.jser.com/css/css-tutorial.html)
-* [CSS参考手册](http://learn.jser.com/cssref/css-reference.html)
-* [jQuery教程](http://learn.jser.com/jquery/jquery-tutorial.html)
-* [Foundation教程](http://learn.jser.com/jquery/jquery-tutorial.html)
-* [CSS3教程](http://learn.jser.com/css3/css3-tutorial.html)
-* [HTML DOM 教程](http://learn.jser.com/htmldom/htmldom-tutorial.html)
-* [JavaScript 参考手册](http://learn.jser.com/jsref/jsref-tutorial.html)
-* [React 教程](http://learn.jser.com/react/react-tutorial.html)
-* [Bootstrap 教程](http://learn.jser.com/bootstrap/bootstrap-tutorial.html)
-* [AngularJS 教程](http://learn.jser.com/angularjs/angularjs-tutorial.html)
-* [DTD 教程](http://learn.jser.com/dtd/dtd-tutorial.html)
-* [jQuery UI 教程](http://learn.jser.com/jqueryui/jqueryui-tutorial.html)
-* [jQuery EasyUI 教程](http://learn.jser.com/jeasyui/jqueryeasyui-tutorial.html)
-* [Ajax 教程](http://learn.jser.com/ajax/ajax-tutorial.html)
-* [Highcharts 教程](http://learn.jser.com/highcharts/highcharts-tutorial.html)
-* [AppML 教程](http://learn.jser.com/appml/appml-tutorial.html)
-* [VBScript 教程](http://learn.jser.com/vbscript/vbscript-tutorial.html)
-* [jQuery Mobile 教程](http://learn.jser.com/jquerymobile/jquerymobile-tutorial.html)
-* [SVG 教程](http://learn.jser.com/svg/svg-tutorial.html)
-* [浏览器](http://learn.jser.com/browsers/browser-information.html)
-* [HTML 参考手册](http://learn.jser.com/tags/html-reference.html)
-* [正则表达式](http://learn.jser.com/regexp/regexp-tutorial.html)
-* [JSON 教程](http://learn.jser.com/json/json-tutorial.html)
+* [Html](前端/HTML.md)
+* [Css](前端/CSS.md)
+* [Javascript](前端/JAVASCRIPT.md)
+* [综合](前端/综合.md)
+
+### 大数据
+* [Spark](大数据/Spark.md)
+
+### 后端
+* [REST in Action 《REST 实战》](https://waylau.gitbooks.io/rest-in-action/content/)
 
 ### Android
 * [Android开发技术前线 ( android-tech-frontier )](https://github.com/hehonghui/android-tech-frontier)
 * [Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.](https://github.com/Skykai521/ECTranslation)
 
-### Elasticsearch
-* [Elasticsearch权威指南（中文版）](https://www.gitbook.com/book/looly/elasticsearch-the-definitive-guide-cn/details)
-* [ELKstack 中文指南](https://www.gitbook.com/book/chenryn/elk-stack-guide-cn/details)
+### C++
+* [C++并发编程(中文版)](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/content/content/chapter1/1.0-chinese.html)
 
 ### Docker
 * [Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
+
+### Elasticsearch
+* [Elasticsearch权威指南（中文版）](https://www.gitbook.com/book/looly/elasticsearch-the-definitive-guide-cn/details)
+* [ELKstack 中文指南](https://www.gitbook.com/book/chenryn/elk-stack-guide-cn/details)
 
 ### Git
 * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
@@ -98,6 +71,9 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### Go
 * [Go 语言圣经 中文版](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
 * [Go Web 编程](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
+
+### Markdown
+* [Markdown - 简单的世界](https://wizardforcel.gitbooks.io/markdown-simple-world/content/)
 
 ### IOS
  * [iOS-Core-Animation-Advanced-Techniques](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
@@ -120,6 +96,11 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [JetBrains IDE/Android Studio 翻译插件](https://github.com/YiiGuxing/TranslationPlugin)
 * [Spring MVC 4.2.4 RELEASE 中文文档完整翻译稿](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)
 * [Gradle User Guide 中文版](https://www.gitbook.com/book/dongchuan/gradle-user-guide-/details)
+
+### Kotlin
+* [Kotlin User Guide 中文翻译](https://www.kotlincn.net/docs/reference/)
+* [kotlin-in-chinese](https://huanglizhuo.gitbooks.io/kotlin-in-chinese/content/)
+* [Kotlin 官方参考文档 中文版](https://hltj.gitbooks.io/kotlin-reference-chinese/content/)
 
 ### Linux
 * [鸟哥的Linux私房菜：基础学习篇 第四版](https://www.gitbook.com/book/wizardforcel/vbird-linux-basic-4e/details)
@@ -147,3 +128,5 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [What-happens-when 的中文翻译](https://github.com/skyline75489/what-happens-when-zh_CN)
 * [程序员的自我修养](https://www.gitbook.com/book/leohxj/a-programmer-prepares/details)
 * [编程之法：面试和算法心得](https://www.gitbook.com/book/wizardforcel/the-art-of-programming-by-july/details)
+* [廖雪峰 JavaScript Python Git 教程](https://wizardforcel.gitbooks.io/liaoxuefeng/content/)
+* [架构师（The Architect）](https://architect.xrosscode.com/zh/)
