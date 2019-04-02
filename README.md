@@ -44,6 +44,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
     - [Rx/RxJava](#rxrxjava)
     - [TensorFlow](#tensorflow)
     - [IOT](#iot)
+    - [算法](#%E7%AE%97%E6%B3%95)
     - [其他](#%E5%85%B6%E4%BB%96)
 
 ### 前端
@@ -135,6 +136,9 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### IOT
 * [MQTT协议中文版](https://legacy.gitbook.com/book/mcxiaoke/mqtt-cn/details)
 * [区块链技术指南](https://legacy.gitbook.com/book/yeasy/blockchain_guide/details)
+
+### 算法
+* [算法珠玑——一个最精简的题库](https://legacy.gitbook.com/book/soulmachine/algorithm-essentials/details)
 
 ### 其他
 * [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
