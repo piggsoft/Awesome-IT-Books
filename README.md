@@ -19,25 +19,31 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 感谢 [@zxui](https://github.com/zxui)
 
 ## 分类
-* [前端](#前端)
-* [大数据](#大数据)
-* [后端](#后端)
-* [Android](#android)
-* [C++](c++)
-* [Docker](#docker)
-* [Elasticsearch](#elasticsearch)
-* [Git](#git)
-* [Go](#go)
-* [Markdown](#markdown)
-* [IOS](#ios)
-* [Java](#java)
-* [Kotlin](#kotlin)
-* [Linux](#linux)
-* [Python](#python)
-* [Redis](#redis)
-* [Rx/RxJava](#rxrxjava)
-* [TensorFlow](#tensorflow)
-* [其他](#其他)
+- [Awesome-IT-Books](#awesome-it-books)
+  - [写在之前](#%E5%86%99%E5%9C%A8%E4%B9%8B%E5%89%8D)
+  - [注意](#%E6%B3%A8%E6%84%8F)
+  - [贡献者名单](#%E8%B4%A1%E7%8C%AE%E8%80%85%E5%90%8D%E5%8D%95)
+  - [分类](#%E5%88%86%E7%B1%BB)
+    - [前端](#%E5%89%8D%E7%AB%AF)
+    - [大数据](#%E5%A4%A7%E6%95%B0%E6%8D%AE)
+    - [后端](#%E5%90%8E%E7%AB%AF)
+    - [Android](#android)
+    - [C++](#c)
+    - [Docker](#docker)
+    - [Elasticsearch](#elasticsearch)
+    - [Git](#git)
+    - [Go](#go)
+    - [Markdown](#markdown)
+    - [IOS](#ios)
+    - [Java](#java)
+    - [Kotlin](#kotlin)
+    - [Linux](#linux)
+    - [Python](#python)
+    - [Redis](#redis)
+    - [Rx/RxJava](#rxrxjava)
+    - [TensorFlow](#tensorflow)
+    - [IOT](#iot)
+    - [其他](#%E5%85%B6%E4%BB%96)
 
 ### 前端
 * [Html](前端/HTML.md)
@@ -69,7 +75,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Pro Git 中文版](https://www.gitbook.com/book/0532/progit/details)
 
 ### Go
-* [Go 语言圣经 中文版](https://www.gitbook.com/book/wizardforcel/gopl-zh/details)
+* [Go 语言圣经 中文版](https://legacy.gitbook.com/book/yar999/gopl-zh/details)
 * [Go Web 编程](https://www.gitbook.com/book/astaxie/build-web-application-with-golang/details)
 
 ### Markdown
@@ -122,6 +128,9 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### TensorFlow
 * [TensorFlow 官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
+
+### IOT
+* [MQTT协议中文版](https://legacy.gitbook.com/book/mcxiaoke/mqtt-cn/details)
 
 ### 其他
 * [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
