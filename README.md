@@ -132,6 +132,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### IOT
 * [MQTT协议中文版](https://legacy.gitbook.com/book/mcxiaoke/mqtt-cn/details)
+* [区块链技术指南](https://legacy.gitbook.com/book/yeasy/blockchain_guide/details)
 
 ### 其他
 * [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
