@@ -54,6 +54,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### 大数据
 * [Spark](大数据/Spark.md)
+* [设计数据密集型应用 - 中文翻译](https://legacy.gitbook.com/book/vonng/ddia-cn/details)
 
 ### 后端
 * [REST in Action 《REST 实战》](https://waylau.gitbooks.io/rest-in-action/content/)
