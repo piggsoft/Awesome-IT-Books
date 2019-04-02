@@ -14,6 +14,7 @@
 ## 注意
 Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地进行阅读  
 后续会给gitbook的书籍和书籍翻译加上github地址，以防国内速度太慢，导致页面完全打不开。
+[GitBook文档（中文版）](https://legacy.gitbook.com/book/chrisniael/gitbook-documentation/details)
 
 ## 贡献者名单
 感谢 [@zxui](https://github.com/zxui)
