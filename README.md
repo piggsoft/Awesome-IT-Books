@@ -21,13 +21,13 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ## 分类
 - [Awesome-IT-Books](#awesome-it-books)
-  - [写在之前](#%E5%86%99%E5%9C%A8%E4%B9%8B%E5%89%8D)
-  - [注意](#%E6%B3%A8%E6%84%8F)
-  - [贡献者名单](#%E8%B4%A1%E7%8C%AE%E8%80%85%E5%90%8D%E5%8D%95)
-  - [分类](#%E5%88%86%E7%B1%BB)
-    - [前端](#%E5%89%8D%E7%AB%AF)
-    - [大数据](#%E5%A4%A7%E6%95%B0%E6%8D%AE)
-    - [后端](#%E5%90%8E%E7%AB%AF)
+  - [写在之前](#写在之前)
+  - [注意](#注意)
+  - [贡献者名单](#贡献者名单)
+  - [分类](#分类)
+    - [前端](#前端)
+    - [大数据](#大数据)
+    - [后端](#后端)
     - [Android](#android)
     - [C++](#c)
     - [Docker](#docker)
@@ -44,8 +44,8 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
     - [Rx/RxJava](#rxrxjava)
     - [TensorFlow](#tensorflow)
     - [IOT](#iot)
-    - [算法](#%E7%AE%97%E6%B3%95)
-    - [其他](#%E5%85%B6%E4%BB%96)
+    - [算法](#算法)
+    - [其他](#其他)
 
 ### 前端
 * [Html](前端/HTML.md)
@@ -121,6 +121,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [零基础学Python](https://www.gitbook.com/book/looly/python-basic/details)
 * [python document](https://github.com/ictar/python-doc)
 * [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa)
+* [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
 
 ### Redis
 * [《Redis Command Reference》全文的中文翻译版](https://github.com/huangz1990/redis)
