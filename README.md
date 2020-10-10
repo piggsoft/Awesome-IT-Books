@@ -140,6 +140,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### 算法
 * [算法珠玑——一个最精简的题库](https://legacy.gitbook.com/book/soulmachine/algorithm-essentials/details)
+* [LeetCode刷题记录与面试整理](https://github.com/yuanguangxin/LeetCode)
 
 ### 其他
 * [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
