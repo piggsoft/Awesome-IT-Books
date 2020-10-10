@@ -119,6 +119,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Linux中国翻译项目](https://github.com/LCTT/TranslateProject)
 * [Shell 编程范例](https://www.gitbook.com/book/tinylab/shellbook/details)
 * [笨办法学 Linux 中文版](https://legacy.gitbook.com/book/wizardforcel/llthw/details)
+* [Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command)
 
 ### Python
 * [零基础学Python](https://www.gitbook.com/book/looly/python-basic/details)
