@@ -105,6 +105,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [JetBrains IDE/Android Studio 翻译插件](https://github.com/YiiGuxing/TranslationPlugin)
 * [Spring MVC 4.2.4 RELEASE 中文文档完整翻译稿](https://github.com/linesh-simplicity/translation-spring-mvc-4-documentation)
 * [Gradle User Guide 中文版](https://www.gitbook.com/book/dongchuan/gradle-user-guide-/details)
+* [Java面试+Java学习指南](https://github.com/AobingJava/JavaFamily)
 
 ### Kotlin
 * [Kotlin User Guide 中文翻译](https://www.kotlincn.net/docs/reference/)
@@ -122,6 +123,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [python document](https://github.com/ictar/python-doc)
 * [stackoverflow-py-top-qa](https://github.com/wklken/stackoverflow-py-top-qa)
 * [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)
+* [Python语言基础50课](https://github.com/jackfrued/Python-Core-50-Courses)
 
 ### Redis
 * [《Redis Command Reference》全文的中文翻译版](https://github.com/huangz1990/redis)
@@ -141,6 +143,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### 算法
 * [算法珠玑——一个最精简的题库](https://legacy.gitbook.com/book/soulmachine/algorithm-essentials/details)
 * [LeetCode刷题记录与面试整理](https://github.com/yuanguangxin/LeetCode)
+* [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
 
 ### 其他
 * [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
