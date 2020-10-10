@@ -148,10 +148,12 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [算法珠玑——一个最精简的题库](https://legacy.gitbook.com/book/soulmachine/algorithm-essentials/details)
 * [LeetCode刷题记录与面试整理](https://github.com/yuanguangxin/LeetCode)
 * [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
+* [LeetCode 刷题攻略](https://github.com/youngyangyang04/leetcode-master)
 
 ### 机器学习
 * [机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归](https://github.com/Jack-Cherish/Machine-Learning)
 * [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP](https://github.com/apachecn/AiLearning)
+* [斯坦福大学2014（吴恩达）机器学习教程中文笔记](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes)
 
 
 ### 其他
