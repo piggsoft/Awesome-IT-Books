@@ -137,6 +137,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### TensorFlow
 * [TensorFlow 官方文档中文版](https://github.com/jikexueyuanwiki/tensorflow-zh)
+* [30天吃掉那只 TensorFlow2](https://github.com/lyhue1991/eat_tensorflow2_in_30_days)
 
 ### IOT
 * [MQTT协议中文版](https://legacy.gitbook.com/book/mcxiaoke/mqtt-cn/details)
