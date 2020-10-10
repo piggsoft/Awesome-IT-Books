@@ -45,6 +45,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
     - [TensorFlow](#tensorflow)
     - [IOT](#iot)
     - [算法](#算法)
+    - [机器学习](#机器学习)
     - [其他](#其他)
 
 ### 前端
@@ -63,6 +64,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### Android
 * [Android开发技术前线 ( android-tech-frontier )](https://github.com/hehonghui/android-tech-frontier)
 * [Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.](https://github.com/Skykai521/ECTranslation)
+* [GitHub上最火的Android开源项目,所有开源项目都有详细资料和配套视频](https://github.com/open-android/Android)
 
 ### C++
 * [C++并发编程(中文版)](https://chenxiaowei.gitbooks.io/cpp_concurrency_in_action/content/content/chapter1/1.0-chinese.html)
@@ -144,6 +146,11 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [算法珠玑——一个最精简的题库](https://legacy.gitbook.com/book/soulmachine/algorithm-essentials/details)
 * [LeetCode刷题记录与面试整理](https://github.com/yuanguangxin/LeetCode)
 * [用动画的形式呈现解LeetCode题目的思路](https://github.com/MisterBooo/LeetCodeAnimation)
+
+### 机器学习
+* [机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归](https://github.com/Jack-Cherish/Machine-Learning)
+* [AiLearning: 机器学习 - MachineLearning - ML、深度学习 - DeepLearning - DL、自然语言处理 NLP](https://github.com/apachecn/AiLearning)
+
 
 ### 其他
 * [掘金翻译计划，翻译掘金上优质的英文文章](https://github.com/xitu/gold-miner)
