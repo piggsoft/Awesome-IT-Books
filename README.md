@@ -41,6 +41,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
     - [Linux](#linux)
     - [Python](#python)
     - [Redis](#redis)
+    - [Rust](#rust)
     - [Rx/RxJava](#rxrxjava)
     - [TensorFlow](#tensorflow)
     - [IOT](#iot)
@@ -131,6 +132,14 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 ### Redis
 * [《Redis Command Reference》全文的中文翻译版](https://github.com/huangz1990/redis)
 * [Redis开发运维实践指南](https://www.gitbook.com/book/gnuhpc/redis-all-about/details)
+
+### Rust
+* [Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/title-page.html)
+* [通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
+* [RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/) or [RustPrimer](https://github.com/rustcc/RustPrimer)
+* [Rust宏小册](https://github.com/DaseinPhaos/tlborm-chinese)
+* [rust-learning](https://github.com/ctjhoa/rust-learning/blob/master/zh_CN.md)
+* [Rust 语言文档](https://prev.rust-lang.org/zh-CN/documentation.html)
 
 ### Rx/RxJava
 * [Rx和RxJava文档中文翻译项目](https://github.com/mcxiaoke/RxDocs)
