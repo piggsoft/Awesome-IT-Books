@@ -134,6 +134,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 * [Redis开发运维实践指南](https://www.gitbook.com/book/gnuhpc/redis-all-about/details)
 
 ### Rust
+* [Rust 中文网 Rust 中文文档](https://rustwiki.org/docs/)
 * [Rust 程序设计语言](https://kaisery.github.io/trpl-zh-cn/title-page.html)
 * [通过例子学 Rust 中文版](https://rustwiki.org/zh-CN/rust-by-example/)
 * [RustPrimer](https://rustcc.gitbooks.io/rustprimer/content/) or [RustPrimer](https://github.com/rustcc/RustPrimer)
