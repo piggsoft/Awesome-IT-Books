@@ -52,6 +52,7 @@ Gitbook 国内访问速度比较慢，建议科学上网或者下载pdf到本地
 
 ### 综合
 * [中国科学技术大学课程资源](https://github.com/USTC-Resource/USTC-Course), 收录中国科学技术大学众多课程资源的笔记，总结，经验等学生原创内容。
+* [中英双语字幕精校版 CSAPP CMU 15-213 课程](https://github.com/EugeneLiu/translationCSAPP), [bilibili 中英字幕精校版视频地址(进行中)](https://www.bilibili.com/video/av31289365)
 
 ### 前端
 * [Html](前端/HTML.md)
